@@ -18,8 +18,7 @@
             "pages": [
               "index",
               "quickstart",
-              "development",
-              "abuso-de-direito"
+              "development"
             ]
           },
           {
@@ -64,6 +63,17 @@
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Terminologia",
+        "groups": [
+          {
+            "group": "Civil",
+            "pages": [
+              "terminologia/abuso-de-direito"
             ]
           }
         ]
