@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Edpo Augusto Ferreira Macedo",
   "colors": {
-    "primary": "#0000FF",
-    "light": "#FF0000",
-    "dark": "#15803D"
+    "primary": "#333333",
+    "light": "#666666",
+    "dark": "#999999"
   },
   "favicon": "/favicon.svg",
   "navigation": {
