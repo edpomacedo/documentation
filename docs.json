@@ -54,7 +54,6 @@
             "group": "STF",
             "pages": [
               "enunciados/sumula-675-do-stf",
-              "enunciados/sumula-676-do-stf",
               "enunciados/sumula-677-do-stf",
               "enunciados/sumula-687-do-stf",
               "enunciados/sumula-688-do-stf",
@@ -109,15 +108,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
