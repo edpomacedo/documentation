@@ -48,21 +48,12 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Enunciados",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "STF",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "enunciados/sumula-736-do-stf"
             ]
           }
         ]
