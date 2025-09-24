@@ -23,6 +23,17 @@
         ]
       },
       {
+        "tab": "Atos Normativos",
+        "groups": [
+          {
+            "group": "DIRBEN/INSS",
+            "pages": [
+              "atos-normativos/dirben-inss/portaria-1299-de-25-7-2025"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Enunciados",
         "groups": [
           {
