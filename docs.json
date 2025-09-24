@@ -16,7 +16,8 @@
           {
             "group": "Introdução",
             "pages": [
-              "index"
+              "index",
+              "escopo"
             ]
           }
         ]
